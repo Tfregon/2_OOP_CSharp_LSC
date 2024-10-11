@@ -1,0 +1,21 @@
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\bin\Debug\DemoDictionaryManager.exe.config
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\bin\Debug\DemoDictionaryManager.exe
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\bin\Debug\DemoDictionaryManager.pdb
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.csproj.AssemblyReference.cache
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.Form1.resources
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.Properties.Resources.resources
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.csproj.GenerateResource.cache
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.csproj.CoreCompileInputs.cache
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.exe
+C:\Users\zoemo\Desktop\Winter 2024\Object-Oriented-Programming\Demo\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.pdb
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\bin\Debug\DemoDictionaryManager.exe.config
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\bin\Debug\DemoDictionaryManager.exe
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\bin\Debug\DemoDictionaryManager.pdb
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.csproj.AssemblyReference.cache
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.Form1.resources
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.Properties.Resources.resources
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.csproj.GenerateResource.cache
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.exe
+C:\Users\Thomas\Downloads\20240402174934_DemoDictionaryManager2\DemoDictionaryManager2\DemoDictionaryManager\DemoDictionaryManager\obj\Debug\DemoDictionaryManager.pdb
